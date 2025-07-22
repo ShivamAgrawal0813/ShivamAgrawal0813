@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ## 📫 How to Reach Me
 - Email: shivamagrawal0813@gmail.com
-- LinkedIn: [Shivam Agrawal]([https://www.linkedin.com/in/shivamagrawal0813/](https://www.linkedin.com/in/shivam-agrawal-696aba293/))
-- Twitter: [@ShivamA3931039]((https://x.com/ShivamA3931039))
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/ShivamA3931039)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shivam-agrawal-696aba293/)
 
 ---
 
