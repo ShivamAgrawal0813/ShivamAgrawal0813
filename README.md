@@ -17,14 +17,10 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 ## 📈 GitHub Stats
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamAgrawal0813&show_icons=true&theme=radical)
 
-## ✨ Top Projects
-- [Project 1](https://github.com/ShivamAgrawal0813/project1) - Short project description.
-- [Project 2](https://github.com/ShivamAgrawal0813/project2) - Short project description.
-
 ## 📫 How to Reach Me
-- Email: agrawal.shivam0813@gmail.com
-- LinkedIn: [Shivam Agrawal](https://www.linkedin.com/in/shivamagrawal0813/)
-- Twitter: [@shivam0813](https://twitter.com/shivam0813)
+- Email: shivamagrawal0813@gmail.com
+- LinkedIn: [Shivam Agrawal]([https://www.linkedin.com/in/shivamagrawal0813/](https://www.linkedin.com/in/shivam-agrawal-696aba293/))
+- Twitter: [@ShivamA3931039]((https://x.com/ShivamA3931039))
 
 ---
 
