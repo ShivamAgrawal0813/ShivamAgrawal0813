@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Shivam Agrawal!
 
-![Profile Banner](https://github.com/ShivamAgrawal0813/ShivamAgrawal0813/assets/banner.png)
-
 Welcome to my GitHub profile! I'm passionate about software development, open source, and exploring new technologies.
 
 ---
@@ -46,7 +44,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamAgrawal0813&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAgrawal0813&layout=compact&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=ShivamAgrawal0813&style=for-the-badge)
 
 ---
 
