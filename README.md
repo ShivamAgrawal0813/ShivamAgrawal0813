@@ -40,13 +40,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ---
 
-## 📈 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamAgrawal0813&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAgrawal0813&layout=compact&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 
 - **Email:** shivamagrawal0813@gmail.com
